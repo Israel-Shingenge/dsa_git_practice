@@ -1,5 +1,5 @@
 import ballerina/io;
 
 public function main() {
-    io:println("Hello, World!");
+    io:println("Welcome to Distributed systems and applications");
 }
